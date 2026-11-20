@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:3DDC84&height=180&section=header&text=ANDROID%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20EXPLORE&descAlignY=55&descSize=14"/>
-</p>
+
 
 <!--
   ADARSH | ANDROID DEVELOPER PROFILE
@@ -13,6 +11,9 @@
 <img src="./file_00000000455c8207a84863e85fc24f8d.png" width="100%" alt="Adarsh Android Developer Banner"/>
 
 <br/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:3DDC84&height=180&section=header&text=ANDROID%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20EXPLORE&descAlignY=55&descSize=14"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+%26+Custom+ROM+Developer;Exploring+AOSP+%26+Android+Internals;Building+Apps%2C+Tools+%26+Websites;Open+Source+Enthusiast" alt="Typing SVG"/>
 
