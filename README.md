@@ -130,6 +130,58 @@ A Flappy-style browser game built for mobile and desktop users.
 
 ---
 
+<div align="center">
+
+# 🚀 UPCOMING PROJECTS
+
+<img src="https://img.shields.io/badge/INNOVATION-LOADING-00FF88?style=for-the-badge&labelColor=101820"/>
+
+*Ideas today. Intelligent systems tomorrow.*
+
+</div>
+
+### 🧠 SAAI — Seven-Layer Autonomous AI Intelligence
+
+<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-00FF88?style=flat-square&labelColor=101820"/>
+<img src="https://img.shields.io/badge/STATUS-ARCHITECTURE%20PLANNING-FFB800?style=flat-square&labelColor=101820"/>
+
+A next-generation AI automation ecosystem designed around seven interconnected layers of intelligence, reasoning, memory, automation and system orchestration.
+
+**Planned Highlights**
+- 7-layer intelligent architecture
+- AI-powered decision and reasoning engine
+- Context and memory management
+- Multi-step task automation
+- API and external tool integration
+- Unified AI control interface
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/7%20LAYERS-ONE%20ECOSYSTEM-00FF88?style=for-the-badge&labelColor=101820"/>
+
+</div>
+
+### ⚡ Future Experiments
+
+| Project | Vision |
+|---|---|
+| 🤖 AI Personal Assistant | Smart everyday task assistance |
+| 📱 Android Utility Suite | Android tools and device automation |
+| 🌐 Web Automation Hub | Connected tools and workflows |
+| 🎮 Interactive Game Lab | New browser-based gaming experiments |
+
+<div align="center">
+
+**MORE IDEAS. MORE EXPERIMENTS. MORE INNOVATION.**
+
+<sub>These projects are planned concepts, not released products.</sub>
+
+</div>
+
+---
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
