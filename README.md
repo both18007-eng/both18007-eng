@@ -49,13 +49,13 @@ Hey! I'm **Adarsh**, an Android enthusiast interested in custom ROM development,
 <a href="https://github.com/both18007-eng">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="https://instagram.com/why.ad7rsh">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://x.com/YOUR_X_USERNAME">
+<a href="https://x.com/why.ad7rsh">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/whyad7rsh">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
