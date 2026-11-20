@@ -236,3 +236,8 @@ If you find my open-source projects useful, consider supporting my work.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,100:3DDC84&height=100&section=footer" width="100%"/>
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:0D1117&height=120&section=footer"/>
+</p>
+
