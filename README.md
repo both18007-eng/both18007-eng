@@ -72,17 +72,21 @@ Hi, I'm **Adarsh**, an Android enthusiast and developer interested in building s
 | Web Projects | Websites and web applications |
 | Build Automation | CI/CD and automated workflows |
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=both18007-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=both18007-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both18007-eng&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both18007-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=both18007-eng&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=both18007-eng&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ## 🌐 Connect With Me
 
