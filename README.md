@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/profile-banner.png" width="100%" alt="Adarsh Android Developer Banner">
 </p>
-
 <div align="center">
 
 # Adarsh | Android Developer
