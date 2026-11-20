@@ -106,6 +106,22 @@ Hey! I'm **Adarsh**, an Android enthusiast interested in custom ROM development,
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=android-development-lab&theme=tokyonight&hide_border=true" />
 </a>
 
+### 🤖 DevChat AI
+
+An AI-powered chat website with a ChatGPT-style interface, built using web technologies and Cloudflare Workers.
+
+<a href="https://wild-haze-b38c.whyadarsh7.workers.dev/">
+<img src="https://img.shields.io/badge/EXPLORE%20DEVCHAT%20AI-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+### 🎮 Sky Hopper
+
+A Flappy-style browser game built for mobile and desktop users.
+
+<a href="https://both18007-eng.github.io/whyad7rsh-github.io/flappy.html">
+<img src="https://img.shields.io/badge/PLAY%20SKY%20HOPPER-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/both18007-eng/whyad7rsh-github.io">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=whyad7rsh-github.io&theme=tokyonight&hide_border=true" />
 </a>
