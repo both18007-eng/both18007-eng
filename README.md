@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:3DDC84&height=180&section=header&text=ANDROID%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20EXPLORE&descAlignY=55&descSize=14"/>
+</p>
+
 <!--
   ADARSH | ANDROID DEVELOPER PROFILE
   Replace the social placeholders before publishing.
