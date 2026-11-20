@@ -85,8 +85,10 @@ Hi, I'm **Adarsh**, an Android enthusiast and developer interested in building s
 
 ## 🌐 Connect With Me
 
-- GitHub: [@both18007-eng](https://github.com/both18007-eng)
-- Portfolio: [My Website](https://both18007-eng.github.io/whyad7rsh-github.io/)
+- 🌍 Portfolio: [Visit My Portfolio](https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html)
+- 💻 GitHub: [@both18007-eng](https://github.com/both18007-eng)
+- 📸 Instagram: [Instagram](https://www.instagram.com/why.ad7rsh?dmpr=aXJvZjBieGdwaTd0)
+  
 
 ---
 
