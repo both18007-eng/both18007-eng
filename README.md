@@ -1,15 +1,16 @@
-<p align="center">
-  <img src="./file_00000000455c8207a84863e85fc24f8d.png" width="100%" alt="Adarsh Android Developer">
-</p>
 
-# Adarsh | Android Developer
+<div align="center">
 
-### Android & Custom ROM Developer · Open Source Enthusiast
+<img src="./file_00000000455c8207a84863e85fc24f8d.png" width="100%" alt="Adarsh Developer Banner"/>
 
-Building, experimenting and contributing to the open-source ecosystem.
+# Hey, I'm Adarsh 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-both18007--eng-181717?style=for-the-badge&logo=github)](https://github.com/both18007-eng)
-[![Profile](https://img.shields.io/badge/Focus-Android%20Development-3DDC84?style=for-the-badge&logo=android)](https://github.com/both18007-eng)
+### Android & Custom ROM Developer
+
+Building, exploring and experimenting with Android.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8BC34A?style=for-the-badge)](https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/both18007-eng)
 
 </div>
 
@@ -17,90 +18,52 @@ Building, experimenting and contributing to the open-source ecosystem.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Adarsh**, an Android enthusiast and developer interested in building software, exploring Android internals and contributing to open source.
+- 🔭 Exploring Android development and custom ROMs
+- 🤖 Interested in AOSP and Android internals
+- 🧪 Testing ROMs and documenting experiments
+- 🌐 Building websites and Android applications
+- ⚙️ Learning CI/CD and development automation
+- 🌱 Always learning and building something new
 
-- 📱 Android application development
-- ⚙️ Custom ROM research, building and testing
-- 🧩 Kernel and device tree development
-- 🌐 Web application development
-- 🔄 Automation and CI/CD workflows
-- 🧪 System debugging and software experimentation
+## 🛠️ Tech & Tools
 
-## 🛠️ Tech Stack
+**Languages**
 
-### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,js,ts,html,css,bash&perline=10" />
-</p>
+**Development Tools**
 
-### Android & Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,gradle,cmake,linux,git,github,githubactions,vscode&perline=8" />
-</p>
-
-### Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,firebase,mongodb,mysql,figma&perline=8" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,postman,cloudflare,vercel,stackoverflow&perline=8" />
-</p>
-
-## 🚀 Areas of Interest
-
-- Android Open Source Project (AOSP)
-- Custom ROM development
-- Linux kernel development
-- Device trees and vendor configurations
-- Android security and debugging
-- App and web development
-- Automated build systems
-
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| Android Development | Android apps and utilities |
-| ROM Research | Custom ROM experiments and documentation |
-| Kernel Lab | Kernel research and development |
-| Web Projects | Websites and web applications |
-| Build Automation | CI/CD and automated workflows |
+| Android Development Lab | Android research and automation |
+| ADx Music | Music player app |
+| Developer Portfolio | Personal developer website |
 
+## 🎯 Current Focus
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=both18007-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both18007-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=both18007-eng&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-## 🌐 Connect With Me
-
-- 🌍 Portfolio: [Visit My Portfolio](https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html)
-- 💻 GitHub: [@both18007-eng](https://github.com/both18007-eng)
-- 📸 Instagram: [Instagram](https://www.instagram.com/why.ad7rsh?dmpr=aXJvZjBieGdwaTd0)
-  
+- Android development
+- Custom ROM research
+- AOSP exploration
+- Automation and CI/CD
+- Open-source projects
 
 ---
 
 <div align="center">
 
-### Build. Break. Learn. Repeat. ⚡
+### Build • Break • Learn • Repeat
 
-*Exploring technology, one commit at a time.*
+**Thanks for visiting my profile! 💚**
 
 </div>
