@@ -182,7 +182,7 @@ If you find my open-source projects useful, consider supporting my work.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=both18007-eng&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+  
 </p>
 
 ## 📈 Contribution Activity
