@@ -174,6 +174,59 @@ If you find my open-source projects useful, consider supporting my work.
 
 ### Thanks for visiting my profile!
 
+
+<!-- EXTRA ANDROID DEVELOPER SHOWCASE -->
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=both18007-eng&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=both18007-eng&bg_color=0d1117&color=3ddc84&line=3ddc84&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+</p>
+
+## 🧪 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AOSP-Research-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROM-Building-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ADB-Debugging-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-3DDC84?style=for-the-badge&logo=githubactions&logoColor=black"/>
+</p>
+
+## 🗺️ Developer Roadmap
+
+| Area | Current Goal |
+|---|---|
+| Android | Advanced Android development |
+| AOSP | Understanding Android source code |
+| Custom ROMs | Build and test ROMs |
+| Kernel | Explore kernel development |
+| Apps | Build useful Android apps |
+| Web | Create modern web projects |
+| Open Source | Contribute to community projects |
+
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+</p>
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=both18007-eng&style=for-the-badge&color=3DDC84&label=VISITORS"/>
+</p>
+
+<!-- END EXTRA SHOWCASE -->
+
+
 **BUILD • EXPLORE • INNOVATE**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,100:3DDC84&height=100&section=footer" width="100%"/>
