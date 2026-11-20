@@ -1,16 +1,31 @@
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:3DDC84&height=180&section=header&text=ANDROID%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20EXPLORE&descAlignY=55&descSize=14"/>
+</p>
+
+<!--
+  ADARSH | ANDROID DEVELOPER PROFILE
+  Replace the social placeholders before publishing.
+-->
+
 <div align="center">
 
-<img src="./file_00000000455c8207a84863e85fc24f8d.png" width="100%" alt="Android Developer Banner"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:00C853,100:101820&height=170&section=header&text=ADARSH&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Builder&descAlignY=60&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Android+%7C+Custom+ROMs+%7C+Web+Development;Exploring+AI+%26+Automation;Learning%2C+Building+%26+Experimenting"/>
+<img src="./file_00000000455c8207a84863e85fc24f8d.png" width="100%" alt="Adarsh Android Developer Banner"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=both18007-eng&style=for-the-badge&color=00c853"/>
-<img src="https://img.shields.io/github/followers/both18007-eng?style=for-the-badge&color=00c853&label=Followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+%26+Custom+ROM+Developer;Exploring+AOSP+%26+Android+Internals;Building+Apps%2C+Tools+%26+Websites;Open+Source+Enthusiast" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/both18007-eng">
+  <img src="https://img.shields.io/badge/GitHub-both18007--eng-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=both18007-eng&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -18,45 +33,68 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Adarsh**, a technology enthusiast who loves experimenting, developing and turning ideas into real projects.
+Hey! I'm **Adarsh**, an Android enthusiast interested in custom ROM development, Android internals and open-source software.
 
-- 🔭 Exploring Android development and custom ROM engineering.
-- 🌱 Learning web development, AI tools and automation.
-- 📱 Experimenting with Android devices, ADB, Fastboot and recovery.
-- 🤖 Building AI-powered websites and applications.
-- 🎮 Interested in game development and creative projects.
-- 💡 Always curious about how technology works behind the scenes.
+- 🤖 Exploring Android and AOSP development
+- 📱 Experimenting with custom ROMs and device software
+- 🛠️ Interested in kernels, device trees and recovery
+- 💻 Building Android applications and websites
+- ⚙️ Exploring GitHub Actions and CI/CD automation
+- 🌱 Learning, experimenting and improving every day
 
-> I believe in learning by building, experimenting and improving every day.
-
----
-
-## 🛠️ What I Work On
-
-| Area | Focus |
-|---|---|
-| 📱 Android Development | Custom ROMs, ADB, Fastboot, recovery |
-| 🌐 Web Development | Responsive websites, UI/UX, JavaScript |
-| 🤖 AI & Automation | AI assistants, APIs, automation experiments |
-| 🎮 Game Development | Browser games and interactive experiences |
-| 🔬 Research & Testing | ROM testing, debugging and development experiments |
+> "Build. Break. Learn. Repeat."
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,cloudflare,vscode&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADB%20%26%20Fastboot-00C853?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Custom%20ROMs-101820?style=for-the-badge&logo=android&logoColor=00C853"/>
-<img src="https://img.shields.io/badge/AI%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<a href="https://github.com/both18007-eng">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/why.ad7rsh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/why.ad7rsh">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://t.me/whyad7rsh">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+## 🧰 Languages & Technologies
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,js,ts,html,css,bash&theme=dark" />
+
+### Android & Development
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,git,github,githubactions,linux,vscode&theme=dark" />
+
+### Web & Other Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,mysql,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🤖 Android Development Interests
+
+| Area | Focus |
+|---|---|
+| Android | Android development & debugging |
+| Custom ROMs | ROM research, flashing & testing |
+| AOSP | Android Open Source Project exploration |
+| Kernel | Kernel research & experiments |
+| Device Trees | Device configuration research |
+| Recovery | Recovery & boot image experiments |
+| Automation | Shell scripts & GitHub Actions |
 
 ---
 
@@ -64,95 +102,15 @@ Hey! I'm **Adarsh**, a technology enthusiast who loves experimenting, developing
 
 <div align="center">
 
-### 🔬 Android Development Lab
-
 <a href="https://github.com/both18007-eng/android-development-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=android-development-lab&theme=chartreuse-dark&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=android-development-lab&theme=tokyonight&hide_border=true" />
 </a>
-
-<p>Android development experiments, custom ROM research, ADB tools and technical exploration.</p>
-
-<a href="https://github.com/both18007-eng/android-development-lab">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 🤖 DevChat AI
-
-<p>AI-powered chat website with a ChatGPT-style interface, built using web technologies and Cloudflare Workers.</p>
-
-<a href="https://wild-haze-b38c.whyadarsh7.workers.dev/">
-<img src="https://img.shields.io/badge/LAUNCH%20DEVCHAT-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 📱 Custom ROM Tester
-
-<p>A platform for custom ROM research, ROM reviews, device information, unlocking guides and an integrated AI assistant.</p>
-
-<a href="https://both18007-eng.github.io/whyad7rsh-github.io/devadarsh0001.html">
-<img src="https://img.shields.io/badge/EXPLORE%20ROM%20TESTER-00C853?style=for-the-badge&logo=android&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 🎮 Sky Hopper
-
-<p>A Flappy-style browser game designed for mobile and desktop users.</p>
-
-<a href="https://both18007-eng.github.io/whyad7rsh-github.io/flappy.html">
-<img src="https://img.shields.io/badge/PLAY%20SKY%20HOPPER-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 🌐 Personal Portfolio
 
 <a href="https://github.com/both18007-eng/whyad7rsh-github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=whyad7rsh-github.io&theme=chartreuse-dark&hide_border=true" width="420"/>
-</a>
-
-<p>My personal space featuring projects, experiments, development journey and web creations.</p>
-
-<a href="https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=both18007-eng&repo=whyad7rsh-github.io&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
----
-
-## 📱 Android Engineering & ROM Research
-
-I enjoy exploring the Android ecosystem beyond everyday usage.
-
-**Areas of interest:**
-- Bootloader unlocking and device configuration
-- Custom ROM installation and testing
-- Recovery environments and troubleshooting
-- ADB and Fastboot commands
-- AOSP and Android system exploration
-- ROM performance, stability and compatibility testing
-
-**Devices explored:**
-- Realme P1 5G
-- Redmi K20 Pro (Raphaelin)
-- Moto G35 5G
-- Vivo Y21
-
----
-
-## 🧪 Current Experiments
-
-### SAAI — Smart Automation & AI Integration
-
-An experimental concept for a multi-layer automation ecosystem.
-
-The idea is to explore how different automation layers, AI capabilities and connected tools can work together.
-
-<sub>Currently in the planning and design stage.</sub>
 
 ---
 
@@ -160,84 +118,125 @@ The idea is to explore how different automation layers, AI capabilities and conn
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=both18007-eng&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=both18007-eng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both18007-eng&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=both18007-eng&theme=chartreuse-dark&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/both18007-eng/both18007-eng/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🎯 Beyond Coding
-
-- 📈 Finance and asset management
-- 🎨 UI/UX and creative design
-- 🧠 AI and machine learning exploration
-- 🚀 Building useful digital products
-- 🔧 Technology experiments and problem solving
-
----
-
-## 💬 Developer Mindset
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-### Build. Break. Learn. Improve. Repeat.
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/both18007-eng">
-<img src="https://img.shields.io/badge/GitHub-both18007--eng-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/why.ad7rsh">
-<img src="https://img.shields.io/badge/Instagram-@why.ad7rsh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/whyad7rsh">
-<img src="https://img.shields.io/badge/Telegram-@whyad7rsh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://both18007-eng.github.io/whyad7rsh-github.io/adarshh-portfolio.html">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:whyadarsh7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Let's connect, collaborate and build something amazing!**
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both18007-eng&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<sub>© 2026 Adarsh | Designed with curiosity and built with passion.</sub>
+<img width="70%" src="https://streak-stats.demolab.com?user=both18007-eng&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:00C853,100:101820&height=100&section=footer"/>
+
+<img src="https://raw.githubusercontent.com/both18007-eng/both18007-eng/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
 </div>
+
+---
+
+## 💡 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+</div>
+
+---
+
+## 🔭 What I'm Working On
+
+- Building my Android Development Lab
+- Exploring custom ROM development
+- Creating useful development tools
+- Improving my Android and web projects
+- Learning open-source development workflows
+
+---
+
+## ❤️ Support My Work
+
+If you find my open-source projects useful, consider supporting my work.
+
+<div align="center">
+
+<a href="https://github.com/sponsors/both18007-eng">
+<img src="https://img.shields.io/badge/Sponsor_Me-❤️-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+
+<!-- EXTRA ANDROID DEVELOPER SHOWCASE -->
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=both18007-eng&bg_color=0d1117&color=3ddc84&line=3ddc84&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+</p>
+
+## 🧪 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AOSP-Research-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROM-Building-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ADB-Debugging-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-3DDC84?style=for-the-badge&logo=githubactions&logoColor=black"/>
+</p>
+
+## 🗺️ Developer Roadmap
+
+| Area | Current Goal |
+|---|---|
+| Android | Advanced Android development |
+| AOSP | Understanding Android source code |
+| Custom ROMs | Build and test ROMs |
+| Kernel | Explore kernel development |
+| Apps | Build useful Android apps |
+| Web | Create modern web projects |
+| Open Source | Contribute to community projects |
+
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+</p>
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=both18007-eng&style=for-the-badge&color=3DDC84&label=VISITORS"/>
+</p>
+
+<!-- END EXTRA SHOWCASE -->
+
+
+**BUILD • EXPLORE • INNOVATE**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,100:3DDC84&height=100&section=footer" width="100%"/>
+
+</div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:0D1117&height=120&section=footer"/>
+</p>
